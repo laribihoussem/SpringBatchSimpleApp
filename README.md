@@ -1,0 +1,2 @@
+# SpringBatchSimpleApp
+Testing new technologies
